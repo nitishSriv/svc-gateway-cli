@@ -1,4 +1,4 @@
-module github.com/nitishSriv/svcgwcli
+module github.com/nitishSriv/svc-gateway-cli
 
 go 1.22
 
